@@ -1,4 +1,4 @@
 # HanoiTower
 WPF application | Tower of Hanoi game
 
-![Tower of Hanoi Output](HanoiTowerOutput.gif)
+![Imgur Image](https://i.imgur.com/Ih22atx.mp4)
